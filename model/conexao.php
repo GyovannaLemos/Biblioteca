@@ -2,9 +2,7 @@
 
 $usuario = "root";
 $url = "localhost";
-$senha = "";
-$nomeBD = "Desafio_Dev";
+$senha = "141297P.l";
+$nomeBD = "testebd";
 
 $conexao = mysqli_connect($url, $usuario, $senha, $nomeBD);
-
-?>
